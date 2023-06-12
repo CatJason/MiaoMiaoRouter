@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">router</string>
+    <string name="hello_router">HelloRouter</string>
+</resources>
